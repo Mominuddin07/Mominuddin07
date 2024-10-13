@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend, Python**
 
-- 📫 How to reach me: [mominuddin07@gmail.com](mailto:mominuddin07@gmail.com)  
+- 📫 How to reach me: [mohammedmominuddin07@gmail.com](mailto:mohammedmominuddin07@gmail.com)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
