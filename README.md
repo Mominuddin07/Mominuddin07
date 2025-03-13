@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **Frontend, Python**
 
-- 📫 How to reach me: [mohammedmominuddin07@gmail.com](mailto:mohammedmominuddin07@gmail.com)  
+- 📫 How to reach me: [mohammedmominuddin07@gmail.com](mailto:mohammedmominuddin07@gmail.com)
+
+- 🖥️ This is my Portfolio: [My Portfolio](https://mohammedmominuddin.netlify.app/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
